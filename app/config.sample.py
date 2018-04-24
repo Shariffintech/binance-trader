@@ -1,6 +1,6 @@
 # @yasinkuyu
 
-# Get an API and Secret Key 
+# Get an Key and Secret 
 # https://www.binance.com/restapipub.html
 
 api_key = ''
