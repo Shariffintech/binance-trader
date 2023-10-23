@@ -30,7 +30,7 @@ logger = logging.basicConfig(filename=LOGGER_FILE, filemode='a',
                              format=formater_str, datefmt=datefmt,
                              level=logging.INFO)
 
-# Aproximated value to get back the commision for sell and buy
+# Approximated value to get back the commission for sell and buy
 TOKEN_COMMISION = 0.001
 BNB_COMMISION   = 0.0005
 #((eth*0.05)/100)
@@ -566,7 +566,7 @@ class Trading():
 
         symbol = self.option.symbol
 
-        print('Auto Trading for Binance.com. @yasinkuyu Thrashformer')
+        print('Auto Trading for Binance.com @yasinkuyu')
         print('\n')
 
         # Validate symbol
